@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on [Gmail Image Signature Generator](https://gerador-assinatura-gmail.vercel.app/)
 
 <p>
-- 🌱 I’m currently learning **React.js, javascript, node, mongo db, firebase**.
+- 🌱 I’m currently learning **react.js, react native, next, javascript, node, mongo db, firebase**.
 </p>
 
 <p>

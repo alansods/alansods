@@ -15,10 +15,14 @@
 - 🔭 I’m currently working on [Button Creator](https://button-creator-five.vercel.app/#/)
 - 🔭 I’m currently working on [Gmail Image Signature Generator](https://gerador-assinatura-gmail.vercel.app/)
 
+<p>
 - 🌱 I’m currently learning **React.js, javascript, node, mongo db, firebase**.
 - 📫 How to reach me **alansods@gmail.com** / +55 (85) 9 8992 6295 (whatsapp)
-
+</p>
+ 
+ <p>
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KZSK4Qjl4NRE5bBEsgBHidxyY5GOOKCn/view?usp=sharing](https://drive.google.com/file/d/1KZSK4Qjl4NRE5bBEsgBHidxyY5GOOKCn/view?usp=sharing)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

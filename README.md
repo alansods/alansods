@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Alan Santos</h1>
-<h3 align="center">A passionate frontend developer from Brazil.</h3>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alansods&label=Profile%20views&color=0e75b6&style=flat" alt="alansods" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alansods" alt="alansods" /></a> </p>
 
 - 🔭 I’m currently working on [Quiz App](https://quiz-app-coral.vercel.app/)
+- 🔭 I’m currently working on [Regional Candies](https://vue-scorm-aula-aa5azbrgm-alansods.vercel.app/#/)
+- 🔭 I’m currently working on [Warehouse Techniques](https://tecnicas-do-almoxarifado.vercel.app/#/)
+- 🔭 I’m currently working on [Link Shortener](https://encurtador-de-links-red.vercel.app/)
+- 🔭 I’m currently working on [Vuetify To-Do-List](https://vuetify-todo-list.vercel.app/#/tarefas)
+- 🔭 I’m currently working on [IMC Calculator](https://imc-calculator-eta.vercel.app/)
+- 🔭 I’m currently working on [Movies App](https://movies-app-dun.vercel.app/)
+- 🔭 I’m currently working on [Button Creator](https://button-creator-five.vercel.app/#/)
+- 🔭 I’m currently working on [Gmail Image Signature Generator](https://gerador-assinatura-gmail.vercel.app/)
 
-- 🌱 I’m currently learning **React.js, javascript, node, mongo db, firebase**
-
-- 👯 I’m looking to collaborate on [Regional candies](https://vue-scorm-aula-aa5azbrgm-alansods.vercel.app/#/)
-
-- 🤝 I’m looking for help with [Warehouse Techniques](https://tecnicas-do-almoxarifado.vercel.app/#/)
-
-- 📫 How to reach me **alansods@gmail.com**
+- 🌱 I’m currently learning **React.js, javascript, node, mongo db, firebase**.
+- 📫 How to reach me **alansods@gmail.com** / +55 (85) 9 8992 6295 (whatsapp)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KZSK4Qjl4NRE5bBEsgBHidxyY5GOOKCn/view?usp=sharing](https://drive.google.com/file/d/1KZSK4Qjl4NRE5bBEsgBHidxyY5GOOKCn/view?usp=sharing)
 

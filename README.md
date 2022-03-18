@@ -17,6 +17,9 @@
 
 <p>
 - 🌱 I’m currently learning **React.js, javascript, node, mongo db, firebase**.
+</p>
+
+<p>
 - 📫 How to reach me **alansods@gmail.com** / +55 (85) 9 8992 6295 (whatsapp)
 </p>
  

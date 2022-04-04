@@ -20,7 +20,7 @@
 </p>
  
  <p>
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KZSK4Qjl4NRE5bBEsgBHidxyY5GOOKCn/view?usp=sharing](https://drive.google.com/file/d/1KZSK4Qjl4NRE5bBEsgBHidxyY5GOOKCn/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/1KZSK4Qjl4NRE5bBEsgBHidxyY5GOOKCn/view?usp=sharing](https://drive.google.com/file/d/1KZSK4Qjl4NRE5bBEsgBHidxyY5GOOKCn/view?usp=sharing)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

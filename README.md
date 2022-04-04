@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alan Santos</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alansods&label=Profile%20views&color=0e75b6&style=flat" alt="alansods" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alansods" alt="alansods" /></a> </p>
 
 - 🔭 I’m currently working on [Quiz App](https://quiz-app-coral.vercel.app/)
 - 🔭 I’m currently working on [Regional Candies](https://vue-scorm-aula-aa5azbrgm-alansods.vercel.app/#/)

@@ -23,8 +23,4 @@
 - 📄 Resume: [https://drive.google.com/file/d/1KZSK4Qjl4NRE5bBEsgBHidxyY5GOOKCn/view?usp=sharing](https://drive.google.com/file/d/1KZSK4Qjl4NRE5bBEsgBHidxyY5GOOKCn/view?usp=sharing)
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alansods&show_icons=true&locale=en&layout=compact" alt="alansods" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alansods&show_icons=true&locale=en" alt="alansods" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alansods&" alt="alansods" /></p>

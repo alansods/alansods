@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [Customers App](https://material-ui-costumers-app.vercel.app/customers)
 
 <p>
-- 🌱 I’m currently learning **react.js, react native, next, javascript, node, mongo db, firebase**.
+- 🌱 I’m currently studyng **react.js, react native, next, javascript, node, mongo db, firebase**.
 </p>
 
 <p>

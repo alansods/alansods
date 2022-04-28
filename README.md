@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on [Regional Candies](https://vue-scorm-aula-aa5azbrgm-alansods.vercel.app/#/)
 - 🔭 I’m currently working on [Production Logistics](https://logistica-de-producao.vercel.app/#/)
 - 🔭 I’m currently working on [Link Shortener](https://encurtador-de-links-red.vercel.app/)
+- 🔭 I’m currently working on [employee registration](https://desafio-cadastro-funcionario-vue.vercel.app/#/)
 - 🔭 I’m currently working on [Vuetify To-Do-List](https://vuetify-todo-list.vercel.app/#/tarefas)
 - 🔭 I’m currently working on [IMC Calculator](https://imc-calculator-eta.vercel.app/)
 - 🔭 I’m currently working on [Movies App](https://movies-app-dun.vercel.app/)

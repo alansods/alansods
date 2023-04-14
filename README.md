@@ -10,7 +10,6 @@
 - [IMC Calculator](https://imc-calculator-eta.vercel.app/)
 - [Movies App](https://movies-app-dun.vercel.app/)
 - [Gmail Image Signature Generator](https://gerador-assinatura-gmail.vercel.app/)
-- [Customers App](https://material-ui-costumers-app.vercel.app/customers)
 
 <p>
 - 🌱 I’m currently studyng **react.js, redux, react native, next, javascript, firebase**.

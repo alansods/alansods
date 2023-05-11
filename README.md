@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Santos</h1>
 
-- [codeleaptest](https://codeleaptest-five.vercel.app/)
-- [Employee registration](https://desafio-cadastro-funcionario-bwtkqny0u-alansods.vercel.app/#/)
-- [Quiz App](https://quiz-app-coral.vercel.app/)
-- [Regional Candies](https://vue-scorm-aula-aa5azbrgm-alansods.vercel.app/#/)
-- [Production Logistics](https://logistica-de-producao.vercel.app/#/)
-- [Link Shortener](https://encurtador-de-links-red.vercel.app/)
-- [Vuetify To-Do-List](https://vuetify-todo-list.vercel.app/#/tarefas)
-- [IMC Calculator](https://imc-calculator-eta.vercel.app/)
-- [Movies App](https://movies-app-dun.vercel.app/)
-- [Gmail Image Signature Generator](https://gerador-assinatura-gmail.vercel.app/)
-
-
 <p>
 - 📫 How to reach me **alansods@gmail.com** / +55 (85) 9 8992 6295 (whatsapp)
 </p>
